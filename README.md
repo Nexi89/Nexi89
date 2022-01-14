@@ -36,7 +36,10 @@ I am a Software Engineer specializing in web technologies and software craftmans
 <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="Storybook" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="50" height="50">
+
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexi89)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Nexi89/Nexi89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
