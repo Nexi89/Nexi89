@@ -25,7 +25,7 @@ I am a Software Engineer specializing in web technologies and software craftmans
 <img src="https://cdn.worldvectorlogo.com/logos/karma.svg" alt="Karma" width="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" width="50" height="50">
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="node.js" width="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="node.js" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/openshift.svg" alt="Openshift" width="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js" width="50" height="50">
