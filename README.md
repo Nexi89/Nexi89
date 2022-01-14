@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/11149444/149554325-43a540fe-1e93-4261-8d82-c346ef1392db.png" width="24px">, I am Fabian!
+
 
 <!--
 **Nexi89/Nexi89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
