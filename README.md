@@ -3,9 +3,7 @@
 I am a Software Engineer specializing in web technologies and software craftmanship. You find my professional experience with technologies below.
 
 ---
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="Confluence" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
@@ -26,6 +24,7 @@ I am a Software Engineer specializing in web technologies and software craftmans
 <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="Storybook" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="50" height="50">
+---
 
 <!--
 **Nexi89/Nexi89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
