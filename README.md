@@ -1,8 +1,15 @@
-### Hi there <img src="https://user-images.githubusercontent.com/11149444/149554325-43a540fe-1e93-4261-8d82-c346ef1392db.png" width="24px" alt="waving hand">, I am Franz Fabian Schmid!
+### Hi there <img src="https://user-images.githubusercontent.com/11149444/149554325-43a540fe-1e93-4261-8d82-c346ef1392db.png" width="24px" alt="waving hand">, I am Franz Fabian Schmid aka procrafts!
 
-I am a Software Engineer specialising in web technologies and software craftsmanship. You find my professional experience with technologies below.
+A Software Engineer specialising in web technologies and software craftsmanship
 
----
+## I am a husband, developer, coach and teacher.
+
+- 🔭 I’m currently working on becoming more present on the web
+- 🌱 I’m currently learning to develop apps in Kotlin
+- 📫 How to reach me: [Xing](https://www.xing.com/profile/FranzFabian_Schmid) | [LinkedIn](https://www.linkedin.com/in/franz-fabian-schmid-163287226/)
+
+ ## My professional experience with technologies.
+ 
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="Bash" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="Confluence" width="50" height="50">
