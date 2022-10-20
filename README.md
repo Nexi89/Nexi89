@@ -5,7 +5,7 @@ A Software Engineer specialising in web technologies and software craftsmanship
 ## I am a husband, developer, coach and teacher.
 
 - 🔭 I’m currently working on becoming more present on the web
-- 🌱 I’m currently learning to develop apps in Kotlin
+- 🌱 I’m currently learning to develop services in Java
 - 📫 How to reach me: [Xing](https://www.xing.com/profile/FranzFabian_Schmid) | [LinkedIn](https://www.linkedin.com/in/franz-fabian-schmid-163287226/)
 
  ## My professional experience with technologies.
